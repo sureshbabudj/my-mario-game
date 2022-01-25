@@ -4,7 +4,7 @@ this game is a minimalistic look-alike or wannabe MARIO game using only JS canva
 ## Developer
 
 ### Prerequisites
-My Mario Game is a JavaScript game so familiarity with JavaScript is required. It is also recommended that you have git and bower installed.
+My Mario Game is a JavaScript game so familiarity with JavaScript is required. It is also recommended that you have git and npm installed.
 
 ### Getting started
 
