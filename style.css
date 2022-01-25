@@ -1,0 +1,18 @@
+/* css reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+}
+
+#canvas {
+  background-color: #0bb3ff;
+}
